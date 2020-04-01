@@ -15,4 +15,10 @@
 //= require turbolinks
 //= require_tree .
 
-alert('Hello World');
+alert(12+3);
+
+alert(12-3);
+
+alert(12*3);
+
+alert(12/3);
