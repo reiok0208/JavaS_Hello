@@ -1,3 +1,6 @@
+# DMM WEBCAMPコンテンツ【JavaScriptを学ぼう】
+DMM WEBCAMPの学習コンテンツJavaScriptを学ぼうの1,2章演習問題です。
+
 # README
 
 This README would normally document whatever steps are necessary to get the
